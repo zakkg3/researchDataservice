@@ -1,4 +1,4 @@
-# researchDataservice
+# Research Data service
 
 A service for Collecting, managing, and using data in resource-constrained environments.
 
