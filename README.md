@@ -1,5 +1,6 @@
 # researchDataservice
-open-source stack for collecting, managing, and using data in resource-constrained environments
+
+Collecting, managing, and using data Service for resource-constrained environments.
 
 
 ## ODK data kit server.
@@ -7,3 +8,12 @@ open-source stack for collecting, managing, and using data in resource-constrain
 
  - K8s [ODK](https://github.com/getodk) deployment.
  
+https://github.com/dbca-wa/central/blob/master/README_k8s.md
+helm chart
+https://github.com/dbca-wa/central/tree/master/odkcentral
+
+
+
+## Service desc.
+
+ODK kit server IAAS.
