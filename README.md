@@ -19,8 +19,6 @@ It should be possible to select in wich country the encrypted data is stored.
 
 
  - K8s [ODK](https://github.com/getodk) deployment.
- 
-https://github.com/dbca-wa/central/blob/master/README_k8s.md
-helm chart
-https://github.com/dbca-wa/central/tree/master/odkcentral
+ - https://github.com/dbca-wa/central/blob/master/README_k8s.md
+ - helm chart : https://github.com/dbca-wa/central/tree/master/odkcentral
 
