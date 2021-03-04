@@ -6,11 +6,15 @@ A service for Collecting, managing, and using data in resource-constrained envir
 ## Collect data anywhere
 
 Build powerful offline forms to collect the data you need wherever it is.
-With just a tablet or simple smarphone: Install a the app , sync with the flag5-cloud server to install the forms and start collecting data. If you dont have connectivity, just keep collecting and once you have it back it will automatically syncronize.
+
+With just a tablet or simple smarphone: Install a the app , sync with the secure cloud-server to install the forms and start collecting data. 
+
+If you dont have connectivity in the field, just collect in offline mode and once you have it back it will automatically syncronize.
+
 
 On the other end, you can securily connect to the server and access your data in real time.
 
-Every communication is fully encrypted. You can also select where your data is stored. So you can be sure where it is.
+Every communication and pice of data is fully encrypted. You can also select where your data is stored. So you can be sure where it is.
 
 
 
@@ -20,7 +24,7 @@ Full encrypted end to end. Keys are genereted per client and only the client own
 
 ### GDPR complaint.
 
-It should be possible to select in wich country the encrypted data is stored.
+Its possible to select in wich country the encrypted data is stored. Starting region: Frankfurt
 
 
 ### Open source transparnt stack.
