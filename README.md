@@ -5,5 +5,5 @@ open-source stack for collecting, managing, and using data in resource-constrain
 ## ODK data kit server.
 
 
- - K8s ODK deployment.
+ - K8s [ODK](https://github.com/getodk) deployment.
  
