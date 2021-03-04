@@ -18,13 +18,19 @@ Every communication and pice of data is fully encrypted. You can also select whe
 
 
 
+
+
 ### Security focused
 
 Full encrypted end to end. Keys are genereted per client and only the client owns the key.
 
+
+
 ### GDPR complaint.
 
 Its possible to select in wich country the encrypted data is stored. Starting region: Frankfurt
+
+
 
 
 ### Open source transparnt stack.
